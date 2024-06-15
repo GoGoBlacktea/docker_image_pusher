@@ -9,4 +9,4 @@ jc21/nginx-proxy-manager:latest
 nodered/node-red:latest
 outlovecn/portainer-cn:latest
 binaryify/netease_cloud_music_api:latest
-cooder/wewe-rss-sqlite:latest
+cooderl/wewe-rss-sqlite:latest

@@ -1,18 +1,5 @@
-#支持私库
-#支持指定架构
-nginx
-k8s.gcr.io/kube-state-metrics/kube-state-metrics:v2.0.0
-xhofe/alist:latest
---platform=linux/arm64 xiaoyaliu/alist
-corentinth/it-tools:latest
-jc21/nginx-proxy-manager:latest
-nodered/node-red:latest
-outlovecn/portainer-cn:latest
-binaryify/netease_cloud_music_api:latest
-cooderl/wewe-rss-sqlite:latest
-xhofe/alist
-homeassistant/home-assistant:latest
-tandrup/minecraft-java-bedrock-server
+
+tandrup/minecraft-java-bedrock-server:latest
 jsanchezd/minecraft-java-server:1.20.04
 
 

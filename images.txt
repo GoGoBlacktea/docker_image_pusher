@@ -1,5 +1,2 @@
-
-tandrup/minecraft-java-bedrock-server:latest
-jsanchezd/minecraft-java-server:1.20.04
-
-
+emqx/mqttx-web
+emqx/mqttx-cli

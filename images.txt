@@ -1,2 +1,4 @@
 
-tandrup/minecraft-java-bedrock-server
+
+jsanchezd/minecraft-java-server:1.20.04
+jsanchezd/minecraft-java-server:latest

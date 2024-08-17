@@ -1,5 +1,6 @@
 #支持私库
 #支持指定架构
+data portainer/portainer-ce
 redis
 postgres:14
 ghcr.io/imagegenius/immich:latest

@@ -2,7 +2,6 @@
 #支持指定架构
 ubuntu/prometheus
 portainer/agent:latest
-#portainer/agent:2.19.5
 portainer/portainer-ce:latest
 redis
 postgres:14

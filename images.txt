@@ -14,7 +14,7 @@ ghcr.io/ivanfioravanti/chatbot-ollama:main
 ghcr.io/edgar971/open-chat-cuda:v1.0.6
 charlocharlie/epicgames-freegames
 nginx
-k8s.gcr.io/kube-state-metrics/kube-state-metrics:v2.0.0
+k8s.gcr.io/kube-state-metrics/kube-state-metrics:latest
 xhofe/alist:latest
 --platform=linux/arm64 xiaoyaliu/alist
 corentinth/it-tools:latest

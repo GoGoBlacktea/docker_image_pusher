@@ -1,6 +1,7 @@
 #支持私库
 #支持指定架构
-ubuntu/prometheus
+emby/embyserver:latest
+ubuntu/prometheus:latest
 portainer/agent:latest
 portainer/portainer-ce:latest
 redis
